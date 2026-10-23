@@ -736,9 +736,9 @@ export default function App() {
       <aside>
         <div className="company-logo">
           <img
-    src="images\dp logo with bg (1) (1).png"
-    alt="Company logo"
-    className="company-logo"
+    src="/images/dp-logo.png"
+  alt="Company logo"
+  className="company-logo"
   />
           <div>
             <strong>DataposIT</strong>
