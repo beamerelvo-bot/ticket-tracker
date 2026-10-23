@@ -1,0 +1,10 @@
+{
+  "description": "Tracks ticket sales progress with motivational messages and daily summaries to help organizations efficiently manage and boost ticket sales.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
